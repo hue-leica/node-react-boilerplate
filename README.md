@@ -1,4 +1,4 @@
-# node-react-boiler-plate
+# node-react boilerplate
 > Inflearn의 John Ahn 님의 강의로 node-react의 기본적인 로그인/회원가입/인증/로그아웃 기능을 구현한 boilter-plate <br>
 > [사용 방법] <br>
 > 1. dev.js file을 config 폴더 안에 생성해주세요.(백엔드 mongoDB 설정 파일) <br>
